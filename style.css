@@ -1,12 +1,6 @@
-p1 {
+p {
     font-family: arial;
     font-size: 100px;
-}
-p2 {
-    font-family: arial;
-    font-size: 100px;
-}
-p3 {
-    font-family: arial;
-    font-size: 180px;
+    text-align: center;
+    text-decoration: bold;
 }
